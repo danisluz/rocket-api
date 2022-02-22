@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Caneta BIC Azul",
+      "price": "5.90",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro 2022",
+      "price": "15000.25"
+    },
+    {
+      "name": "Iphone 13 Pro Max",
+      "price": "12000.78",
+      "id": 3
+    },
+    {
+      "name": "Notebook Dell Inspiron",
+      "price": "1200.00",
+      "id": 4
+    }
+  ]
+}
